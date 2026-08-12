@@ -1,4 +1,4 @@
-# Fall2025
+# Fall2026
 _Course Name_: Infrastructure Sensing and Modeling
 
 _Course Code_: CivEng 170A/278

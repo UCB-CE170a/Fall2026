@@ -1,8 +1,8 @@
 # Quiz 5
 
 In this quiz, you will complete and run a simple python program that implements all-or-nothing traffic assignment. You will be provided with:
-* road network input files: [berkeley_links.csv](https://raw.githubusercontent.com/UCB-CE170a/Fall2024/master/traffic_data/berkeley_links.csv) and [berkeley_nodes.csv](https://raw.githubusercontent.com/UCB-CE170a/Fall2024/master/traffic_data/berkeley_nodes.csv)
-* origin-destination (OD) input file: [day_time_od.csv](https://raw.githubusercontent.com/UCB-CE170a/Fall2025/master/traffic_data/day_time_od.csv) and [night_time_od.csv](https://raw.githubusercontent.com/UCB-CE170a/Fall2025/master/traffic_data/night_time_od.csv). Trip origins and destinations are all nodes in the road network.
+* road network input files: [berkeley_links.csv](https://raw.githubusercontent.com/UCB-CE170a/Fall2026/main/traffic_data/berkeley_links.csv) and [berkeley_nodes.csv](https://raw.githubusercontent.com/UCB-CE170a/Fall2026/main/traffic_data/berkeley_nodes.csv)
+* origin-destination (OD) input file: [day_time_od.csv](https://raw.githubusercontent.com/UCB-CE170a/Fall2026/main/traffic_data/day_time_od.csv) and [night_time_od.csv](https://raw.githubusercontent.com/UCB-CE170a/Fall2026/main/traffic_data/night_time_od.csv). Trip origins and destinations are all nodes in the road network.
 
 Below is a visualization of the input files and output files. As you can see, our study area covers mostly the north Berkeley. The orange area is a hypothesized evacuation zone. Depending on the housing density, there are a number of trips starting from each road network node inside the evacuation zone. The node titled "virtual safe destination" at the bottom left is a virtual supernode where all trips end.
 ![berkeley_road_network](berkeley_road_network.png "Berkeley roads")
@@ -24,4 +24,4 @@ Save the output to a csv file titled `quiz5_last_first.csv` and submit it. The f
 
 Click the icon below to start:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UCB-CE170a/Fall2025/blob/main/Quizzes/Quiz5/Fall2025_quiz5_student.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UCB-CE170a/Fall2026/blob/main/Quizzes/Quiz5/Fall2026_quiz5_student.ipynb)
