@@ -1,5 +1,6 @@
 # Fall2026
 _Course Name_: Infrastructure Sensing and Modeling
+
 _Course GSI_: Sunghyun Kim, sunghyun.kim@berkeley.edu
 
 _Course Code_: CivEng 170A/278
