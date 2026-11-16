@@ -1,4 +1,4 @@
-# Homework 4: Surface-wave field data analysis using python
+# Assignment 5: Surface-wave field data analysis using python
 
 Click the icon below to start the homework. Again, remember to SAVE TO YOUR OWN DRIVE to avoid losing your progress. 
 
